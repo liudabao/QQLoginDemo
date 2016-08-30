@@ -1,2 +1,2 @@
 # QQLoginDemo
-<p>使用qq登录</p>
+<p>app使用qq授权登录</p>
